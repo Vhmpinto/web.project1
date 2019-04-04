@@ -1,1 +1,1 @@
-# 1º Projeto do Curso Web avaqnçado da Udemy
+# 1º Projeto do Curso Web avançado da Udemy
